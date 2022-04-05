@@ -1,3 +1,4 @@
 hw/hw9/Part[[:space:]]1[[:space:]]-[[:space:]]Gradient[[:space:]]Attacks[[:space:]]Implementation[[:space:]]on[[:space:]]Neural[[:space:]]Networks/data/cifar-10-python.tar.gz filter=lfs diff=lfs merge=lfs -text
 cohort/week11/w11s1/data/MNIST/* filter=lfs diff=lfs merge=lfs -text
 cohort/week11/w11s1/data/MNIST/** filter=lfs diff=lfs merge=lfs -text
+cohort/week11/w11s2/data/MNIST/** filter=lfs diff=lfs merge=lfs -text
